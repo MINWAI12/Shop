@@ -1,0 +1,8 @@
+{
+  "name": "မေလှိုင် အဝတ်အထည်ဆိုင် POS",
+  "description": "အဝတ်အထည်ရောင်းဆိုင်သုံး Point of Sale (POS) စနစ် — အရောင်းကောင်တာ၊ Size အလိုက် ကုန်ပစ္စည်းလက်ကျန် စီမံခန့်ခွဲမှု၊ 80mm Thermal ဘောင်ချာနှင့် အရောင်းအစီရင်ခံစာ။",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
